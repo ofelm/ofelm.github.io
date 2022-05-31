@@ -1,0 +1,60 @@
+/*divs*/
+
+.mainblock {
+  background-color: #e4f5ef;
+  margin: auto;
+  float: center;
+  width: 50%;
+  padding: 15px;
+}
+
+.buttons {
+  padding: 5px;
+  float: center;
+}
+
+.footer {
+  background-color: #d3efe5;
+  padding: 5px;
+}
+
+a .footerlinks {
+  color: #4a5551;
+}
+
+#gallery {
+  border: none;
+  margin: auto;
+  font-style: italic;
+}
+
+#form {
+  background-repeat: repeat-y;
+}
+
+/*more specific stuff*/
+img:footer {
+  float: right;
+  margin: 0px 0px 15px 15px;
+}
+
+a {
+  color: #7b8f88;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #6d7d77;
+  text-decoration: underline;
+}
+body {
+ background-image: url("../images/sketchbook-paper.jpg");
+ background-repeat: no-repeat;
+ background-size: 1920px 1080px;
+ font-family: helvetica;
+}
+
+table {
+  border-style: solid;
+  border-collapse: collapse;
+}
